@@ -1,0 +1,32 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Montserrat&display=swap');
+</style> 
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+.button{
+  padding: 17px;
+  margin: 0 1.5px;
+  border 2px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  
+  
+}
+
+.row{
+  margin: 3px 0;
+}
+
+.row input{
+  margin: 0;
+  padding: 6px 19.5px;
+  border: 2px solid black;
+  border-radius: 7px;
+}
